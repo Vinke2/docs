@@ -102,7 +102,7 @@ spec:
                       properties:
                         # 检索设置
                         retrieval:
-                          type: object
+                          type: array
                           properties:
                             # 类型
                             kind:
